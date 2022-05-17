@@ -1,0 +1,4 @@
+aiogram
+pip
+requests
+datetime
