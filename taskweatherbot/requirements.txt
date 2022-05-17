@@ -1,4 +1,3 @@
-aiogram
-pip
-requests
-datetime
+aiogram==2.20
+pip==22.1
+requests==2.27.1
